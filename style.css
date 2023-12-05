@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+   
+}
+body{
+    align-items: center;
+    background-color: blueviolet;
+    background-image: url(image.jpg)
+    background-repeat; no-repeat:
+}
+body form{
+    background-repeat: no-repeat;
+}
